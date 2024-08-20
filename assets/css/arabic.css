@@ -1248,3 +1248,11 @@ body {
     margin-left: 15px;
 }
 
+.btn-h {
+  padding: 8px 34px;
+  background: blanchedalmond;
+  color: black;
+  position: relative;
+  top: 22px;
+}
+
